@@ -1,0 +1,16 @@
+{
+  "name": "d3.chart.template",
+  "version": "0.0.0",
+  "main": "d3.chart.template.js",
+  "dependencies": {
+    "d3": "~3.2",
+    "d3.chart": "https://github.com/misoproject/d3.chart.git"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "d3.chart.template",
+  "description": "A template for d3.chart",
+  "version": "0.0.1",
+  "author": "John Goodall",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jgoodall/d3.chart.template.git"
+  },
+  "keywords": [
+    "d3.js",
+    "visualization",
+    "svg"
+  ],
+  "d3.chart": {
+    "version" : "0.1.0"
+  },
+  "devDependencies": {
+    "grunt": "~0.4",
+    "grunt-contrib-concat": "~0.3",
+    "grunt-contrib-uglify": "~0.2",
+    "grunt-contrib-jshint": "~0.6",
+    "grunt-contrib-watch" : "~0.5"
+  }
+}
