@@ -3,7 +3,16 @@ d3.chart.template
 
 This project will scaffold out building a [d3.chart](http://misoproject.com/d3-chart/). This is based on [d3.chart.template](https://github.com/misoproject/d3.chart.template).
 
-## Usage
+## Installing
+
+Clone this repo into a new directory and then remove the template git information. Replace <chartname> below with the name of the chart you will be creating.
+
+    git clone https://github.com/jgoodall/d3.chart.template.git d3.chart.<chartname>
+    cd <chartname>
+    rm -rf .git
+    git init
+
+## Using
 
 To get started, do the following:
 
