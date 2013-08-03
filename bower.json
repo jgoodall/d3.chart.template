@@ -1,6 +1,6 @@
 {
   "name": "d3.chart.template",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "main": "d3.chart.template.js",
   "dependencies": {
     "d3": "~3.2",
@@ -9,8 +9,6 @@
   "ignore": [
     "**/.*",
     "node_modules",
-    "bower_components",
-    "test",
-    "tests"
+    "bower_components"
   ]
 }
