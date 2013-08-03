@@ -16,9 +16,9 @@ Clone this repo into a new directory and then remove the template git informatio
 
 To get started, do the following:
 
-1. Customize the `package.json` file to set your name, description, repository, author, etc. The name will be used by grunt to create the concatenated chart from the source files in the `src` directory.
-2. Rename the source files in `src` to the kind of chart you are building.
-3. Edit `meta.srcFiles` in `Gruntfile.js` to match the source file names.
+1. Customize the `package.json` and `bower.json` files to set your name, description, repository, author, etc. The name from `package.json` will be used by grunt to create the concatenated chart from the source files in the `src` directory.
+2. Rename the source files in `src` to the kind of chart you are building and edit `meta.srcFiles` in `Gruntfile.js` to match the source file names.
+3. Customize the `README.md` file. See the [official template readme for advice](https://github.com/misoproject/d3.chart.template/blob/master/README.md)
 4. Run `bower install` to install `d3` and `d3.chart` into `bower_components`
 5. Run `npm install -d` to install the grunt modules.
 6. Create your chart.
