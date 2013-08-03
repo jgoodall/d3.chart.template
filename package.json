@@ -10,7 +10,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/jgoodall/d3.chart.template.git"
+    "url": "https://github.com/jgoodall/d3.chart.template.git"
   },
   "keywords": [
     "d3.js",
