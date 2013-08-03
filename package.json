@@ -2,7 +2,11 @@
   "name": "d3.chart.template",
   "description": "A template for d3.chart",
   "version": "0.0.1",
-  "author": "John Goodall",
+  "author": {
+    "name": "John Goodall",
+    "email": "jgoodall@gmail.com",
+    "url": "http://jgoodall.me/"
+  },
   "license": "MIT",
   "repository": {
     "type": "git",
